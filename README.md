@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daili de Andrade dos Santos Bareira</h1>
+<h1 align="center">Hi 👋, I'm Daili de Andrade dos Santos Barreira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dailibarr&label=Profile%20views&color=0e75b6&style=flat" alt="dailibarr" /> </p>
 
 - 📫 How to reach me **daili_andrade@hotmail.com**
